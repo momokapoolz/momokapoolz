@@ -77,7 +77,6 @@ I'm a Backend Engineer from Vietnam 🇻🇳<br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" />
 </div>
-</div>
 
 ###
 
@@ -90,4 +89,5 @@ I'm a Backend Engineer from Vietnam 🇻🇳<br><br>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
+
 
